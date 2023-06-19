@@ -16,6 +16,7 @@ For Data modelling
 Created 6 different tables visual and there column names assigned Primary keys for each table and Foreign keys as needed to connect the data. 
 
 Used various data types for different data 
+<img width="652" alt="image" src="https://github.com/Dhawanpreetk/sql-challenge/assets/130263833/51410a7c-3667-4274-97f7-a5c225946997">
 
 
 
